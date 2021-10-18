@@ -1,2 +1,2 @@
 Este es un nuevo archivo del curso de Git y GitHub en Platzi
-Hablaremos de la vida
+Mañana hablaremos de la vida laboral
