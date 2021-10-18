@@ -1,5 +1,6 @@
 body{
     color: black;
+    background-color: #ADADAD;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
@@ -30,6 +31,7 @@ body{
     border: 1px solid #000;
     margin: 0 auto;
     margin-top: 2em;
+    background-color: #A0A0A0;
 }
 
 #container h1{
