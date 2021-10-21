@@ -1,6 +1,6 @@
 body{
     color: black;
-    background-color: #AAAAAA;
+    background-color: #1e1f24;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
@@ -24,6 +24,11 @@ body{
     font-size: 0.8em;
 }
 
+#cabecera #logo{
+    width: 5%;
+    vertical-align: middle;
+}
+
 #container{
     width: 70%;
     padding: 1em;
@@ -36,4 +41,9 @@ body{
 
 #container h1{
     font-size: 100px;
+}
+
+#post{
+    background: white;
+    padding: 1em;
 }
